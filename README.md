@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @erikdsp
+- 👀 I’m interested in making meaningful stuff
+- 🌱 I’m currently learning c++
+- 💞️ I’d love to collaborate on building esoteric audio effects
+- 📫 How to reach me: erik@iunderlandet.se
+- 😄 Pronouns: he
+- ⚡ Fun fact: I make my own miso
